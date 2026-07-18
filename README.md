@@ -1,0 +1,97 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Senior+Web+Engineer+%C2%B7+AI+Applications;Building+web+apps+%E2%80%94+with+and+without+AI;Local+LLMs+%C2%B7+Agents+%C2%B7+RAG;10%2B+years+of+web+%C2%B7+Technical+Lead" alt="Typing SVG" />
+
+</div>
+
+---
+
+> **Senior Web Engineer & Technical Lead** · 10+ years in web · since 2023 focused on **AI-powered products, local LLMs and agent-based systems**. Based in **Darmstadt, Germany**.
+
+I build end-to-end web applications — frontend, backend, infra — and increasingly ship AI features that actually run in production. Not "I read a blog post about RAG", but "I run embeddings locally, ship agents to production, and can tell you where they fall apart."
+
+This GitHub is the engineering side of that work: open-source tooling, MCP servers, homelab infra, and the occasional side-project.
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/homelab-dashboard">homelab-dashboard</a></h3>
+      <p align="center"><sub>TypeScript · React · Vite</sub></p>
+      <p align="center">React/Vite dashboard for homelab services — single pane of glass for self-hosted infra.</p>
+      <p align="center"><a href="https://github.com/darkjive/homelab-dashboard"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/chat-reader">chat-reader</a></h3>
+      <p align="center"><sub>Python · Playwright</sub></p>
+      <p align="center">WhatsApp chat exporter — pulls, parses and renders chat history via Playwright automation.</p>
+      <p align="center"><a href="https://github.com/darkjive/chat-reader"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/nexus_click">nexus_click</a></h3>
+      <p align="center"><sub>Python</sub></p>
+      <p align="center">Python CLI utility.</p>
+      <p align="center"><a href="https://github.com/darkjive/nexus_click"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">More on the way</h3>
+      <p align="center"><sub>MCP servers · agent systems</sub></p>
+      <p align="center">Several private repos (Hermes, opencode-mcp-vision, vault) will go public as the READMEs land.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack — what I actually ship with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <br />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### Activity & Stats
+
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darkjive&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=darkjive&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophies" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkjive&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://pxlngn.net"><img src="https://img.shields.io/badge/pxlngn.net-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/alain-ritter-b49ba8233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/pxlngn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:alain-ritter@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <sub><i>Profile README auto-updates via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>. Last refresh: <img src="https://img.shields.io/github/last-commit/darkjive/darkjive?label=_" alt="last commit" /></i></sub>
+</p>
