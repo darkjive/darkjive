@@ -19,26 +19,34 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/sunclock">sunclock</a></h3>
+      <p align="center"><sub>TypeScript · PWA · Astronomy</sub></p>
+      <p align="center">Astronomically correct sun clock — shows the gap between social time and real solar time. Offline, no backend, no tracking.</p>
+      <p align="center"><a href="https://sunclock.vercel.app"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a> <a href="https://github.com/darkjive/sunclock"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/darkjive/homelab-dashboard">homelab-dashboard</a></h3>
       <p align="center"><sub>TypeScript · React · Vite</sub></p>
       <p align="center">React/Vite dashboard for homelab services — single pane of glass for self-hosted infra.</p>
       <p align="center"><a href="https://github.com/darkjive/homelab-dashboard"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/darkjive/chat-reader">chat-reader</a></h3>
       <p align="center"><sub>Python · Playwright</sub></p>
       <p align="center">WhatsApp chat exporter — pulls, parses and renders chat history via Playwright automation.</p>
       <p align="center"><a href="https://github.com/darkjive/chat-reader"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/darkjive/nexus_click">nexus_click</a></h3>
       <p align="center"><sub>Python</sub></p>
       <p align="center">Python CLI utility.</p>
       <p align="center"><a href="https://github.com/darkjive/nexus_click"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">More on the way</h3>
       <p align="center"><sub>MCP servers · agent systems</sub></p>
       <p align="center">Several private repos (Hermes, opencode-mcp-vision, vault) will go public as the READMEs land.</p>
