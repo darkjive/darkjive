@@ -49,7 +49,7 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
     <td colspan="2" valign="top">
       <h3 align="center">More on the way</h3>
       <p align="center"><sub>MCP servers · agent systems</sub></p>
-      <p align="center">Several private repos (Hermes, opencode-mcp-vision, vault) will go public as the READMEs land.</p>
+      <p align="center">Several private repos (opencode-mcp-vision, vault) will go public as the READMEs land.</p>
     </td>
   </tr>
 </table>
