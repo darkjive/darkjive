@@ -33,16 +33,16 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darkjive/chat-reader">chat-reader</a></h3>
-      <p align="center"><sub>Python · Playwright</sub></p>
-      <p align="center">WhatsApp chat exporter — pulls, parses and renders chat history via Playwright automation.</p>
-      <p align="center"><a href="https://github.com/darkjive/chat-reader"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+      <h3 align="center"><a href="https://github.com/darkjive/cbks">cbks</a></h3>
+      <p align="center"><sub>Python · FastAPI · React/Three.js</sub></p>
+      <p align="center">Hirninspiriertes, local-first Wissenssystem — Notizen als Graph mit Aktivierung, Vertrauen und zeitlichem Verfall. LLM lokal über Ollama.</p>
+      <p align="center"><a href="https://github.com/darkjive/cbks"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darkjive/nexus_click">nexus_click</a></h3>
-      <p align="center"><sub>Python</sub></p>
-      <p align="center">Python CLI utility.</p>
-      <p align="center"><a href="https://github.com/darkjive/nexus_click"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+      <h3 align="center"><a href="https://pxlngn.net">pxlngn.net</a></h3>
+      <p align="center"><sub>Astro · TypeScript · Tailwind</sub></p>
+      <p align="center">Persönliche Portfolio-Website — statisch, datengetrieben statt CMS, DE/EN/FR, Lighthouse 100.</p>
+      <p align="center"><a href="https://pxlngn.net"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
   </tr>
   <tr>
