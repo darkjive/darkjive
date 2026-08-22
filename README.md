@@ -22,7 +22,7 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
       <h3 align="center"><a href="https://github.com/darkjive/zeitgeber">zeitgeber</a></h3>
       <p align="center"><sub>TypeScript · PWA · Astronomy</sub></p>
       <p align="center">Astronomically correct sun clock — shows the gap between social time and real solar time. Offline, no backend, no tracking.</p>
-      <p align="center"><a href="https://zeitgeber.vercel.app"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a> <a href="https://github.com/darkjive/zeitgeber"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+      <p align="center"><a href="https://zeitgeber-app.vercel.app"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a> <a href="https://github.com/darkjive/zeitgeber"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/darkjive/homelab-dashboard">homelab-dashboard</a></h3>
