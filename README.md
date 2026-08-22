@@ -33,23 +33,15 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darkjive/cbks">cbks</a></h3>
-      <p align="center"><sub>Python · FastAPI · React/Three.js</sub></p>
-      <p align="center">Hirninspiriertes, local-first Wissenssystem — Notizen als Graph mit Aktivierung, Vertrauen und zeitlichem Verfall. LLM lokal über Ollama.</p>
-      <p align="center"><a href="https://github.com/darkjive/cbks"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center"><a href="https://pxlngn.net">pxlngn.net</a></h3>
       <p align="center"><sub>Astro · TypeScript · Tailwind</sub></p>
       <p align="center">Persönliche Portfolio-Website — statisch, datengetrieben statt CMS, DE/EN/FR, Lighthouse 100.</p>
       <p align="center"><a href="https://pxlngn.net"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">More on the way</h3>
-      <p align="center"><sub>MCP servers · agent systems</sub></p>
-      <p align="center">Several private repos (opencode-mcp-vision, vault) will go public as the READMEs land.</p>
+      <p align="center"><sub>Brain-inspired knowledge systems · MCP servers · agent systems</sub></p>
+      <p align="center">Several private repos (cbks, opencode-mcp-vision, vault) will go public as the READMEs land.</p>
     </td>
   </tr>
 </table>
