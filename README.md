@@ -53,10 +53,10 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
       <p align="center"><a href="https://github.com/darkjive/Jobschleuse"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">wohlfuehlgesundheit.de</h3>
+      <h3 align="center"><a href="https://wohlfühlgesundheit.de">Wohlfühlgesundheit</a></h3>
       <p align="center"><sub>Astro · Tailwind · PHP</sub></p>
       <p align="center">Website für eine Darmtherapie-Praxis — Kundenprojekt, Code-Repo privat.</p>
-      <p align="center"><a href="https://wohlfuehlgesundheit.de"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
+      <p align="center"><a href="https://wohlfühlgesundheit.de"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
   </tr>
 </table>
