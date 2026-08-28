@@ -61,7 +61,7 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   </tr>
 </table>
 
-<p align="center"><sub>Weitere private Repos (vault) folgen, sobald die READMEs stehen.</sub></p>
+<p align="center"><sub>// TODO</sub></p>
 
 ---
 
