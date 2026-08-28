@@ -33,10 +33,10 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://pxlngn.net">PXLNGN.NET</a></h3>
+      <h3 align="center"><a href="https://pxlngn-net.vercel.app">PXLNGN.NET</a></h3>
       <p align="center"><sub>Astro · TypeScript · Tailwind</sub></p>
       <p align="center">Persönliche Portfolio-Website — statisch, datengetrieben statt CMS, DE/EN/FR, Lighthouse 100.</p>
-      <p align="center"><a href="https://pxlngn.net"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
+      <p align="center"><a href="https://pxlngn-net.vercel.app"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/darkjive/Synapse">Synapse</a></h3>
@@ -102,7 +102,7 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
 ### Connect
 
 <p align="center">
-  <a href="https://pxlngn.net"><img src="https://img.shields.io/badge/pxlngn.net-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="https://pxlngn-net.vercel.app"><img src="https://img.shields.io/badge/pxlngn--net.vercel.app-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/alain-ritter-b49ba8233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/pxlngn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:alain-ritter@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
