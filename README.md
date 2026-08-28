@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Senior+Web+Engineer+%C2%B7+AI+Applications;Building+web+apps+%E2%80%94+with+and+without+AI;Local+LLMs+%C2%B7+Agents+%C2%B7+RAG;10%2B+years+of+web+%C2%B7+Technical+Lead" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Frontend+Engineer+%26+Designer;Building+web+apps+%E2%80%94+with+and+without+AI;Local+LLMs+%C2%B7+Agents+%C2%B7+RAG;10%2B+years+of+web+%C2%B7+Scrum+Master+%26+Team+Lead" alt="Typing SVG" />
 
 </div>
 
 ---
 
-> **Senior Web Engineer & Technical Lead** · 10+ years in web · since 2023 focused on **AI-powered products, local LLMs and agent-based systems**. Based in **Darmstadt, Germany**.
+> **Senior Frontend Engineer & Designer** · 10+ years in web · since 2023 focused on **AI-powered products, local LLMs and agent-based systems**. Also bring people-leadership experience as **Scrum Master & disziplinarischer Team Lead** (2016–2022). Based in **Darmstadt, Germany**.
 
 I build end-to-end web applications — frontend, backend, infra — and increasingly ship AI features that actually run in production. Not "I read a blog post about RAG", but "I run embeddings locally, ship agents to production, and can tell you where they fall apart."
 
