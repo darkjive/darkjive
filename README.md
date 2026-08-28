@@ -25,10 +25,10 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
       <p align="center"><a href="https://zeitgeber-app.vercel.app"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a> <a href="https://github.com/darkjive/zeitgeber"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darkjive/homelab-dashboard">homelab-dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/darkjive/Leitstand">Leitstand</a></h3>
       <p align="center"><sub>TypeScript · React · Vite</sub></p>
       <p align="center">React/Vite dashboard for homelab services — single pane of glass for self-hosted infra.</p>
-      <p align="center"><a href="https://github.com/darkjive/homelab-dashboard"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+      <p align="center"><a href="https://github.com/darkjive/Leitstand"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
   </tr>
   <tr>
@@ -39,10 +39,10 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
       <p align="center"><a href="https://pxlngn.net"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darkjive/cbks">cbks</a></h3>
+      <h3 align="center"><a href="https://github.com/darkjive/Synapse">Synapse</a></h3>
       <p align="center"><sub>Python · FastAPI · React · Three.js · Ollama</sub></p>
       <p align="center">Hirninspiriertes, local-first Wissenssystem — Notizen und Vaults als Graph mit Aktivierung, Vertrauen und zeitlichem Verfall. LLM lokal über Ollama.</p>
-      <p align="center"><a href="https://github.com/darkjive/cbks"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+      <p align="center"><a href="https://github.com/darkjive/Synapse"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   </tr>
 </table>
 
-<p align="center"><sub>Weitere private Repos (opencode-mcp-vision, vault) folgen, sobald die READMEs stehen.</sub></p>
+<p align="center"><sub>Weitere private Repos (vault) folgen, sobald die READMEs stehen.</sub></p>
 
 ---
 
