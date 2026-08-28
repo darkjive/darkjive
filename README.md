@@ -39,12 +39,29 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
       <p align="center"><a href="https://pxlngn.net"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">More on the way</h3>
-      <p align="center"><sub>Brain-inspired knowledge systems · MCP servers · agent systems</sub></p>
-      <p align="center">Several private repos (cbks, opencode-mcp-vision, vault) will go public as the READMEs land.</p>
+      <h3 align="center"><a href="https://github.com/darkjive/cbks">cbks</a></h3>
+      <p align="center"><sub>Python · FastAPI · React · Three.js · Ollama</sub></p>
+      <p align="center">Hirninspiriertes, local-first Wissenssystem — Notizen und Vaults als Graph mit Aktivierung, Vertrauen und zeitlichem Verfall. LLM lokal über Ollama.</p>
+      <p align="center"><a href="https://github.com/darkjive/cbks"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/Jobschleuse">Jobschleuse</a></h3>
+      <p align="center"><sub>Python · FastAPI · React · shadcn/ui · uv</sub></p>
+      <p align="center">Stellen finden, anreichern und zur fertigen Bewerbung machen — lokale LLM-Pipeline statt SaaS.</p>
+      <p align="center"><a href="https://github.com/darkjive/Jobschleuse"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">wohlfuehlgesundheit.de</h3>
+      <p align="center"><sub>Astro · Tailwind · PHP</sub></p>
+      <p align="center">Website für eine Darmtherapie-Praxis — Kundenprojekt, Code-Repo privat.</p>
+      <p align="center"><a href="https://wohlfuehlgesundheit.de"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>Weitere private Repos (opencode-mcp-vision, vault) folgen, sobald die READMEs stehen.</sub></p>
 
 ---
 
