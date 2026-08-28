@@ -33,7 +33,7 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://pxlngn.net">pxlngn.net</a></h3>
+      <h3 align="center"><a href="https://pxlngn.net">PXLNGN.NET</a></h3>
       <p align="center"><sub>Astro · TypeScript · Tailwind</sub></p>
       <p align="center">Persönliche Portfolio-Website — statisch, datengetrieben statt CMS, DE/EN/FR, Lighthouse 100.</p>
       <p align="center"><a href="https://pxlngn.net"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
