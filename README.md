@@ -59,6 +59,20 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
       <p align="center"><a href="https://wohlfühlgesundheit.de"><img src="https://img.shields.io/badge/live-demo-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="live demo" /></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/opencode-mcp-vision">opencode-mcp-vision</a></h3>
+      <p align="center"><sub>Python · MCP · Ollama · uv</sub></p>
+      <p align="center">Lokaler MCP-Server für Bildanalyse — delegiert an Ollamas Vision-Modell, ohne Cloud-Anbindung.</p>
+      <p align="center"><a href="https://github.com/darkjive/opencode-mcp-vision"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/darkjive/SteuerHelfer">SteuerHelfer</a></h3>
+      <p align="center"><sub>Node.js · Playwright · CDP</sub></p>
+      <p align="center">Automatisierungs-Skripte für die WISO-Steuer-Web-Oberfläche — persistenter Chromium, gesteuert über das Chrome DevTools Protocol.</p>
+      <p align="center"><a href="https://github.com/darkjive/SteuerHelfer"><img src="https://img.shields.io/badge/view-repo-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><sub>// TODO</sub></p>
