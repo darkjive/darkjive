@@ -105,7 +105,6 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   <a href="https://pxlngn-net.vercel.app"><img src="https://img.shields.io/badge/pxlngn--net.vercel.app-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/alain-ritter-b49ba8233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/pxlngn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:alain-ritter@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
