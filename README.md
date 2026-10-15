@@ -15,13 +15,27 @@ Not "I read a blog post about RAG", but "I run embeddings locally, ship agents t
 
 ### Selected work
 
-- **[Synapse](https://github.com/darkjive/Synapse)** — Brain-inspired, local-first knowledge graph: notes as a graph with activation, trust and temporal decay. <sub>Python · FastAPI · React · Three.js · Ollama</sub>
-- **[Jobschleuse](https://github.com/darkjive/Jobschleuse)** — From job listing to finished application: a local LLM pipeline instead of SaaS. <sub>Python · FastAPI · React · uv</sub>
-- **[opencode-mcp-vision](https://github.com/darkjive/opencode-mcp-vision)** — Local MCP server for image analysis via an Ollama vision model, cloud-free. <sub>Python · MCP · Ollama</sub>
-- **[Zeitgeber](https://github.com/darkjive/Zeitgeber)** — Astronomically correct sun clock showing the gap between social and solar time. Offline PWA, no tracking. [Live](https://zeitgeber-app.vercel.app) <sub>TypeScript · PWA</sub>
-- **[Leitstand](https://github.com/darkjive/Leitstand)** — Single pane of glass for my self-hosted homelab. <sub>TypeScript · React · Vite</sub>
+**[Synapse](https://github.com/darkjive/Synapse)**<br />
+Brain-inspired, local-first knowledge graph: notes as a graph with activation, trust and temporal decay.<br />
+<sub>Python · FastAPI · React · Three.js · Ollama</sub>
 
-Client work: [wohlfühlgesundheit.de](https://wohlfühlgesundheit.de) · Portfolio: [pxlngn-net.vercel.app](https://pxlngn-net.vercel.app) <sub>Astro · Lighthouse 100</sub>
+**[Jobschleuse](https://github.com/darkjive/Jobschleuse)**<br />
+From job listing to finished application: a local LLM pipeline instead of SaaS.<br />
+<sub>Python · FastAPI · React · uv</sub>
+
+**[opencode-mcp-vision](https://github.com/darkjive/opencode-mcp-vision)**<br />
+Local MCP server for image analysis via an Ollama vision model, cloud-free.<br />
+<sub>Python · MCP · Ollama</sub>
+
+**[Zeitgeber](https://github.com/darkjive/Zeitgeber)** · [live](https://zeitgeber-app.vercel.app)<br />
+Astronomically correct sun clock showing the gap between social and solar time. Offline PWA, no tracking.<br />
+<sub>TypeScript · PWA</sub>
+
+**[Leitstand](https://github.com/darkjive/Leitstand)**<br />
+Single pane of glass for my self-hosted homelab.<br />
+<sub>TypeScript · React · Vite</sub>
+
+Also: client work at [wohlfühlgesundheit.de](https://wohlfühlgesundheit.de) and my portfolio [pxlngn-net.vercel.app](https://pxlngn-net.vercel.app) (Astro, Lighthouse 100).
 
 ### Stack
 
@@ -29,7 +43,7 @@ TypeScript · React · Astro · Tailwind · Node.js · Python · FastAPI · Olla
 
 ### Activity
 
-<img src="github-metrics.svg" alt="Contribution calendar and languages" width="100%" />
+<img src="github-metrics.svg" alt="Contribution calendar and languages" width="480" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkjive/darkjive/output/snake-dark.svg" />
