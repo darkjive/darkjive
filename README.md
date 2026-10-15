@@ -93,6 +93,13 @@ This GitHub is the engineering side of that work: open-source tooling, MCP serve
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darkjive&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkjive/darkjive/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/darkjive/darkjive/output/snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### Connect
