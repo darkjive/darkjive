@@ -17,30 +17,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Europe/Berlin
           config_output: svg
           config_padding: 8%
-          plugin_lines: yes
-          plugin_followup: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, dockerfile, makefile
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-active
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 15
-          # plugin_achievements disabled: upstream v3.34 queries `projects`
-          # (Projects Classic), which GitHub sunset — the GraphQL error nulls
-          # the whole user node and renders "Unexpected error" on the profile.
-          # Re-enable once lowlighter/metrics drops that field.
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_traffic: yes
-          plugin_people: yes
-          plugin_people_limit: 28
-          plugin_people_size: 28
-          plugin_people_types: followers, following
           commits_authoring: Al Ain, Alain Ritter, darkjive, 82544587+darkjive@users.noreply.github.com
