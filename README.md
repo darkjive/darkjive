@@ -25,7 +25,7 @@ My portfolio: own visual identity, data-driven instead of a CMS, DE/EN/FR, Light
 Astronomically correct sun clock showing the gap between social and solar time. Offline PWA, no tracking.<br />
 <sub>Design · TypeScript · PWA</sub>
 
-**[Leitstand](https://github.com/darkjive/Leitstand)**<br />
+**[Ogma](https://github.com/darkjive/Ogma)**<br />
 Single pane of glass for my self-hosted homelab.<br />
 <sub>TypeScript · React · Vite</sub>
 
